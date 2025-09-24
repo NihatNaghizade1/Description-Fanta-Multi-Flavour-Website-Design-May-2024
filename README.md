@@ -1,7 +1,7 @@
 Fanta Multi-Flavour Website Design (May 2024)
 A creative Figma project showcasing 4 different Fanta flavours (Lemon, Orange, Grape, etc.) with simple UI layouts, QR integration, and landing page design for a playful brand experience.
 
-📊 Geniş Description
+
 🥤 Fanta Multi-Flavour Website Design – May 2024
 
 📌 Overview
